@@ -61,4 +61,3 @@ Answer 12: The changes are now reflected.
 
 Answer 13: .  ..  .git  .gitignore  README.md
 
-Answer 14: 
